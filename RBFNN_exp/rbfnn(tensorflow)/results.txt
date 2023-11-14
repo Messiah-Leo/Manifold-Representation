@@ -1,0 +1,9 @@
+Centers: 300
+Gamma: 0.01
+准确率: 0.9119
+Centers: 300
+Gamma: 0.02
+准确率: 0.9219
+Centers: 300
+Gamma: 0.03
+准确率: 0.9291
