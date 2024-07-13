@@ -1,0 +1,13 @@
+%database3 总共5类，每类391个样本
+%data1dna 总共3类，每类400样本
+%data5landsat 总共6类 每类211
+%data6spambase 总共2类 每类1813
+% data7msplice 总共3类 每类762
+% data8letter 总共26类 每类167
+% data9waveform3 总共3类 每类1647
+% data10segment 总共7类 每类330
+%11 UCI HAR Dataset 总共6类 每类420+986=1406
+%12 HTRU_2 2类 每类1639
+%13 GFE 18类 每类 330
+%14 GFE1 2类 每类 414
+%15 GFE2 2类 每类 548

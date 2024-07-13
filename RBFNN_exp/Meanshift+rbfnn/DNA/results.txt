@@ -1,0 +1,16 @@
+Bandwidth: 0.5; Centers: 1547; Gamma: 0.1; 准确率: 0.4800
+Bandwidth: 1; Centers: 1547; Gamma: 0.1; 准确率: 0.4750
+Bandwidth: 0.1; Centers: 1547; Gamma: 0.1; 准确率: 0.4750
+Bandwidth: 0.1; Centers: 1547; Gamma: 0.01; 准确率: 0.7325
+Bandwidth: 0.01; Centers: 1547; Gamma: 0.01; 准确率: 0.7625
+Bandwidth: 10; Centers: 1476; Gamma: 0.01; 准确率: 0.6750
+Bandwidth: 0.0001; Centers: 1547; Gamma: 0.01; 准确率: 0.7175
+Bandwidth: 15; Centers: 8; Gamma: 0.01; 准确率: 0.4750
+Bandwidth: 10; Centers: 1476; Gamma: 0.01; 准确率: 0.7350
+Bandwidth: 11; Centers: 1469; Gamma: 0.01; 准确率: 0.7275
+Bandwidth: 12; Centers: 1462; Gamma: 0.01; 准确率: 0.7150
+Bandwidth: 13; Centers: 1453; Gamma: 0.01; 准确率: 0.6625
+Bandwidth: 14; Centers: 296; Gamma: 0.01; 准确率: 0.4750
+Bandwidth: 13.5; Centers: 713; Gamma: 0.01; 准确率: 0.4750
+Bandwidth: 10; Centers: 1387; Gamma: 0.01; 准确率: 0.8600
+Bandwidth: 10; Centers: 1387; Gamma: 0.01; 准确率: 0.9240
